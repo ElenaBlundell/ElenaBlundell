@@ -1,4 +1,4 @@
-<p style="display: flex; align-items: center;">
+<p style="display: flex;">
   
   ### Hi, I'm Elena Blundell 👋
   
