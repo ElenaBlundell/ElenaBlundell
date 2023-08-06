@@ -1,9 +1,9 @@
-<div style="display: flex; align-items: center;">
+<p style="display: flex; align-items: center;">
   
   ### Hi, I'm Elena Blundell 👋
   
   <img alt="avatar" width="220px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
-</div>
+</p>
 <br />
 I like Javascript and now I'm learning React
 <br />
