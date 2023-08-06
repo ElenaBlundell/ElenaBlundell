@@ -1,4 +1,5 @@
-<div style="display: flex; justify-contect: center;">
+<div style="display: flex; justify-content: center;">
+  
   ### Hi, I'm Elena Blundell 👋
   
   <img alt="avatar" width="220px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
