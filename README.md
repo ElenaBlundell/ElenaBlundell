@@ -14,6 +14,7 @@
 
 <!-- Social -->
 <h2>You can contact me here 👇 </h2>
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Elena%20Blundell-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/elena-blundell/)
 [![Mail](https://img.shields.io/badge/Gmail-blundell.elena@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:blundell.elena@gmail.com)
 
