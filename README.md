@@ -1,11 +1,23 @@
+<!-- "Hero" Header -->
+
+<div align="center">
 <h1> Hi, I'm Elena Blundell 👋</h1>
 
 <img alt="avatar" width="220px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
-  
+</div> 
 <br />
 
-I like Javascript and now I'm learning React
+<!-- About -->
+
+<p>I like Javascript and now I'm learning React</p>
 <br />
+
+<!-- Social -->
+<h2>You can contact me here 👇 </h2>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-Elena%20Blundell-blue?logo=Linkedin&logoColor=blue&labelColor=black)](https://www.linkedin.com/in/elena-blundell/)
+[![Mail](https://img.shields.io/badge/Gmail-blundell.elena@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:blundell.elena@gmail.com)
+
+<!-- Tech I use -->
 
 <h2>My Tech Stack</h2>
 
