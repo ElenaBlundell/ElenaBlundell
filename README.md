@@ -1,10 +1,8 @@
-<div display="flex" justify-content="center">
-  
-  ### Hi, I'm Elena Blundell 👋
-  <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="avatar" width="220px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
-</div>
-<br />
 
+  ### Hi, I'm Elena Blundell 👋
+  
+  <img alt="avatar" width="220px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
+<br />
 I like Javascript and now I'm learning React!
 <br />
 
