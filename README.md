@@ -1,14 +1,13 @@
-<div style="display: flex; justify-content: flex-end;">
+<h1> Hi, I'm Elena Blundell 👋</h1>
+
+<img alt="avatar" width="220px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
   
-  <h1> Hi, I'm Elena Blundell 👋</h1>
-  
-  <img alt="avatar" width="220px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
-</div>
 <br />
+
 I like Javascript and now I'm learning React
 <br />
 
-### My Tech Stack 
+<h2>My Tech Stack</h2>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
