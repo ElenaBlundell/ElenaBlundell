@@ -3,7 +3,7 @@
 <div align="center">
 <h1> Hi, I'm Elena Blundell 👋</h1>
 
-<img alt="avatar" width="200px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
+<img alt="avatar" width="150px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
 </div> 
 <br />
 
