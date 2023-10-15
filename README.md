@@ -3,7 +3,6 @@
 <h1> Hi there! 👋👩‍💻</h1>
 
 <!-- About -->
-
 <h2>Couple of words about me</h2>
 
 🌱 I like Javascript and I’m currently learning React <br>
