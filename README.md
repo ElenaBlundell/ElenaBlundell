@@ -2,15 +2,12 @@
 
 <h1> Hi there! 👋👩‍💻</h1>
 
-
-<br />
-
 <!-- About -->
 
 <h2>Couple of words about me</h2>
 
 🌱 I like Javascript and I’m currently learning React <br>
-❓❓❓ I’m working on Quizzical Trivia app <br>
+❓ I’m working on a Quizzical Trivia app <br>
 😇 I have infinite patience for CSS <br>
 
 💬 Ask me about Asia. I lived there for 8 years. <br>
