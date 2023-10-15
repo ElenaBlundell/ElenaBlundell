@@ -1,8 +1,8 @@
 <!-- "Hero" Header -->
 
-<h1> Hi there! 👋</h1>
+<h1> Hi there! 👋👩‍💻</h1>
 
-<img alt="avatar" width="180px" height="auto"     src="https://github.com/ElenaBlundell/ElenaBlundell/assets/57737705/9351b84f-43cb-4082-9593-15e448f2ce61" />
+
 <br />
 
 <!-- About -->
